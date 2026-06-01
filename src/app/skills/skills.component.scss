@@ -1,0 +1,22 @@
+.skills {
+    padding-left: 10px;
+    min-height: 100vh;
+    background: linear-gradient(90deg, rgb(240, 214, 214), rgb(251, 219, 195));
+
+}
+
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 20px;
+}
+
+.skill-card {
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #5a325e;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}

@@ -1,0 +1,15 @@
+.contact {
+    background: linear-gradient(90deg,rgb(240, 214, 214),rgb(251, 219, 195));
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.contact-card {
+    margin-left: 25%;
+    margin-top: 5px;
+    background: linear-gradient(135deg,rgb(236, 142, 142),pink);
+    border: 1px solid black;
+    height: 50vh;
+    width: 800px;
+    // border-radius: 220px;
+}
