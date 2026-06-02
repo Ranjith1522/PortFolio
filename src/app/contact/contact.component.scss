@@ -16,3 +16,9 @@
     min-width: 300px;
     padding-top: 40px;
 }
+
+@media (min-width :360px) {
+    .contact-card {
+        margin-left: 5%;
+    }
+}
