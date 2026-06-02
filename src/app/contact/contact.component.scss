@@ -6,10 +6,13 @@
 
 .contact-card {
     margin-left: 25%;
-    margin-top: 5px;
+    margin-top: 5%;
     background: linear-gradient(135deg,rgb(236, 142, 142),pink);
     border: 1px solid black;
     height: 50vh;
-    width: 800px;
-    // border-radius: 220px;
+    width: 50%;
+    justify-items: center;
+    align-items: center;
+    min-width: 300px;
+    padding-top: 40px;
 }

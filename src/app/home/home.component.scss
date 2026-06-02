@@ -2,9 +2,25 @@
     padding-left: 20px;
     min-height: 100vh;
     background: linear-gradient(90deg,rgb(240, 214, 214),rgb(251, 219, 195));
+    display: flex;
+    flex-direction: row;
+    gap: 20%;
 }
+
+.hero {
+    padding: 30px;
+}
+
 
 .bio {
     font-style: italic;
     font-size: 20px;
 }
+
+.about {
+    margin: 30px;
+    // border: 0.1px solid black;
+    width:100%;
+    max-width: 400px;
+}
+
